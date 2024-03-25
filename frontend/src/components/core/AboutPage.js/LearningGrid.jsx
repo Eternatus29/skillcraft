@@ -33,7 +33,7 @@ const LearningGrid = () => {
                     <HighlightedText text={data.highlightText} />
                   </h1>
 
-                  <p className='text-richblack-300 font-medium' >Studynotion partners with more than 275+ leading universities and companies to bring flexible, affordable, job-relevant online learning to individuals and organizations worldwide.</p>
+                  <p className='text-richblack-300 font-medium' >SkillCraft partners with more than 275+ leading universities and companies to bring flexible, affordable, job-relevant online learning to individuals and organizations worldwide.</p>
 
                   <div className='w-fit mt-2'>
                     <CTAButton active={true} linkto={data.BtnLink}>

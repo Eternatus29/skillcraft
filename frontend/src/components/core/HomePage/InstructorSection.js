@@ -17,7 +17,7 @@ const InstructorSection = () => {
           <HighlightedText text="instructor" />
         </div>
         <div className='font-medium text-base w-[90%] text-richblack-300' >
-          Instructors from around the world teach millions of students on StudyNotion. We provide the tools and skills to teach what you love.
+          Instructors from around the world teach millions of students on SkillCraft. We provide the tools and skills to teach what you love.
         </div>
 
         <div className='w-fit' >
