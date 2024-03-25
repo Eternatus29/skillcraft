@@ -69,8 +69,8 @@ const emailOtpTemplate = (otp) => {
     <div class="container">
       <!-- Header -->
       <div>
-        <a href="http://192.168.0.103:3000/">
-          <img class="logo" src="https://i.ibb.co/BqhZ1Lt/logo.jpg" alt="SkillCraft-Logo" />
+        <a href="https://skill-craft.onrender.com/">
+          <img class="logo" src="https://i.ibb.co/vkRqfTt/logo-yellow-email.png" alt="SkillCraft-Logo" />
         </a>
       </div>
 

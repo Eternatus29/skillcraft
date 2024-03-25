@@ -69,8 +69,8 @@ const courseEnrollmentEmailTemplate = (courseName, name) => {
     <div class="container">
       <!-- Header -->
       <div>
-        <a href="http://192.168.0.103:3000/">
-          <img class="logo" src="https://i.ibb.co/BqhZ1Lt/logo.jpg" alt="SkillCraft-Logo" />
+        <a href="https://skill-craft.onrender.com/">
+          <img class="logo" src="https://i.ibb.co/vkRqfTt/logo-yellow-email.png" alt="SkillCraft-Logo" />
         </a>
       </div>
 
@@ -81,7 +81,7 @@ const courseEnrollmentEmailTemplate = (courseName, name) => {
         <p>Dear ${name},</p>
         <p>You have successfully registered for the course <span class="highlight">"${courseName}"</span>. We are excited to have you as a participant!</p>
         <p>Please log in to your learning dashboard to access the course materials and start your learning journey.</p>
-        <a class="cta" href="http://192.168.0.103:3000/dashboard/my-profile">Go to Dashboard</a>
+        <a class="cta" href="https://skill-craft.onrender.com/dashboard/my-profile">Go to Dashboard</a>
       </div>
 
       <!-- Footer -->
