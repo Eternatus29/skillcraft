@@ -36,7 +36,7 @@ const Home = () => {
     <div className=' bg-richblack-900 flex flex-col font-inter min-h-screen w-screen'>
 
       {/* Section 1 - Black color section */}
-      <div className='bg-richblack-500' >
+      <div className='bg-richblack-900' >
         <div className=' relative mx-auto flex flex-col items-center justify-between  w-11/12 max-w-maxContent text-white gap-8' >
 
 
