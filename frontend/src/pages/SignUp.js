@@ -6,7 +6,7 @@ const SignUp = () => {
   return (
     <div>
       <Template
-        heading={'Join the hundreds learning to code with SkillCraft for free'}
+        heading={'Join the thousands learning to code with SkillCraft for free'}
         desc1={'Build skills for today, tomorrow, and beyond.'}
         desc2={'Education to future-proof your career.'}
         image={signupImage}
